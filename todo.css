@@ -42,7 +42,7 @@ padding: 20px 24px;
 
 .btn {
 position: absolute;
-left: 2rem;
+left: 3rem;
 margin-top: 0.3rem;
 }
 
@@ -52,15 +52,15 @@ align-items: center;
 }
 
 .theme-switch-wrapper em {
-margin-left: 10px;
+margin-left: 11px;
 font-size: 1rem;
 }
 
 .theme-switch {
 display: inline-block;
-height: 36px;
+height: 35px;
 position: relative;
-width: 64px;
+width: 63px;
 }
 
 .theme-switch input {
@@ -98,7 +98,7 @@ transform: translateX(26px);
 }
 
 .slider.round {
-border-radius: 34px;
+border-radius: 33px;
 }
 
 .slider.round:before {
